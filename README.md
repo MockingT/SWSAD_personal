@@ -22,7 +22,7 @@
   - 功能模型
   - BCE用例设计
 
-  ![pic](F:/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/pics/1.png)
+  ![pic](pics/1.png)
 
 - 用例图，业务过程/多泳道图：
 
@@ -36,7 +36,7 @@
   - 用例活动图则是对用例图中各个基本功能进行展开，具体地建模。
   - 用例活动图一般由**主成功场景事件流**和**拓展事件流**两部分组成。主成功场景事件流一般是该功能成功的运行步骤，而拓展事件流可能包括一些失败的事件以及突发事件。
   - 例子
-  - ![pic](F:/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/pics/usecase.png)
+  - ![pic](pics/usecase.png)
 
 - 领域模型：
 
@@ -52,7 +52,7 @@
 
   - 例子
 
-    ![pic](F:/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/pics/domain.png)
+    ![pic](pics/domain.png)
 
 - 状态模型：
 
@@ -62,7 +62,7 @@
 
   - 例子
 
-    ![pic](F:/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/pics/state.png)
+    ![pic](pics/state.png)
 
 - 功能模型：
 
@@ -70,7 +70,7 @@
 
   - 例子
 
-    ![pic](F:/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/pics/system.png)
+    ![pic](pics/system.png)
 
 ## 3、Git使用总结
 
